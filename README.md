@@ -14,5 +14,7 @@ In these lessons, I created three pie charts showing the percentage of total far
 '------
 # **MODULE 5 CHALLENGE**
 ##  **Analysis Overview**
-    After presenting the previously-mentioned results, the CEO wants a summary of the ride-sharing data by city type into a multiple-line graph that shows the total weekly fares for each city type.  
+After presenting the previously-mentioned results, the CEO wants a summary of the ride-sharing data by city type, placed into a multiple-line graph.  The multiple-line graph needs to disply the total weekly fares for each city type.  As previously stated, the goal is to gather information that can drive decisions that will improve access to ride-sharing services and determine affordability for underserved neighborhoods.  
+##  **Results**
+As depicted in Figure 1, *PyBer Ride-Sharing Data (2019)*, the Rural city type has a low number of rides, less than 15, with moderate to high average fare prices, $23 to $40 plus.  Suburban city types, have a moderate number of rides, eight to 27.  The average fare prices range from $24 to $36.  In contrast, Urban city types, have a high number of rides, 12 to 39, with average fares ranging from $20 to $30.  
     
