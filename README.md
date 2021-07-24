@@ -16,5 +16,24 @@ In these lessons, I created three pie charts showing the percentage of total far
 ##  **Analysis Overview**
 After presenting the previously-mentioned results, the CEO wants a summary of the ride-sharing data by city type, placed into a multiple-line graph.  The multiple-line graph needs to disply the total weekly fares for each city type.  As previously stated, the goal is to gather information that can drive decisions that will improve access to ride-sharing services and determine affordability for underserved neighborhoods.  
 ##  **Results**
-As depicted in Figure 1, *PyBer Ride-Sharing Data (2019)*, the Rural city type has a low number of rides, less than 15, with moderate to high average fare prices, $23 to $40 plus.  Suburban city types, have a moderate number of rides, eight to 27.  The average fare prices range from $24 to $36.  In contrast, Urban city types, have a high number of rides, 12 to 39, with average fares ranging from $20 to $30.  
+### Deliverable 1
+The total rides for Urban, Suburban, and Rural 1,625, 625, and 125, respectively, which means that Urban has 13 times more rides than rural and approximately two and half times more than Suburban.  The total drivers for each city type are 2,405 Urban, 490 Suburban, and 78 Rural; Urban has almost 31 times more drivers than Rural and five times more drivers than Suburban.  The revenue from fares for 2019 was $4,328 Rural, $19,356 Suburban, and $39,854 Urban.  Urban accounted for nine time more fare revenue than Rural and twice more than Suburban.  The average fare per ride was $24.53 Urban, $30.97 Suburban, and $34.62 Rural; the average fare on rural routes is approximately $10 more than the average fare for an urban route.  The average fare per driver was $16.57 Urban, $39.50 Suburban, and $55.49 Rural--that is approximately three times more than urban.  
+### Deliverable 2
+The multiple line plot was created for the time frame January 1, 2019 through April 29, 2019, on a weekly basis.  Once again, Urban had the highest total fares for this time frame.  The maximum total fares occurred as follows:  
+-   Urban       week ending March 10, 2019      $2,470.93
+-   Suburban    week ending February 24, 2019   $1,412.74
+-   Rural       week ending April 7, 2019         $501.24  
+
+All three city types incurred a spike in total fares for the week ending February 24, 2019, after which, all three experienced declines in total fares until March 2019.  Suburban ended April 2019, with its second highest total fares of $1,357.75.  
+##  **Summary and Recommendations**
+Based on the results, I make the following recommendations to address the disparities among the city types:  
+1.  Consider increasing the number of routes for rural and suburban, especially during peak time frames.  A cost-benefit analysis should be performed.  
+2.  Consider lowering the fares in the rural routes.  
+3.  Provided further financial incentitives for rural route riders such as half-off time frames, etc.  
+4.  Work with local leaders in suburban and rural areas to enhance ridership.  The more convenient, the more likely someone is to ride.  
+5.  Meet with nonprofit groups and community services to brainstorm additional incentives.  
+
+##  Closing
+I appreciate the opportunity to provide these analyses and look forward to future projects.  I appreciate and welcome all feedback regardin this matter.  
+
     
